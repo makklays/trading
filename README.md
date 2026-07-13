@@ -28,5 +28,5 @@ This repository serves as a portfolio demonstrating clean code practices, determ
 ## 📧 Contact & Collaboration
 
 If you are a recruiter or technical leader looking to discuss these implementations, feel free to reach out:
-* **GitHub Main Profile:** [://github.com/makklays](https://://github.com/makklays)
+* **GitHub Main Profile:** [https://github.com/makklays](https://github.com/makklays)
 * **LinkedIn / Email: makklays@gmail.com** (Feel free to connect via the contacts provided in my main profile or CV)
