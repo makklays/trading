@@ -6,7 +6,7 @@ This repository serves as a portfolio demonstrating clean code practices, determ
 
 <p align="left">
   <img src="images/java-algorithms-1.jpeg" width="400" alt="Algorithms 1" />
-  <img src="images/java-algorithms-2.jpeg" width="400" alt="Algorithms 2" />
+  <img src="images/java-algorithms-3.jpeg" width="400" alt="Algorithms 2" />
 </p>
 
 ---
