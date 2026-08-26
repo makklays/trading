@@ -4,6 +4,11 @@ A curated collection of production-ready code examples, algorithmic trading stra
 
 This repository serves as a portfolio demonstrating clean code practices, deterministic financial calculations, and modern architectural patterns within the Java/Spring ecosystem.
 
+<p align="left">
+  <img src="images/java-algorithms-1.jpeg" width="400" alt="Algorithms 1" />
+  <img src="images/java-algorithms-2.jpeg" width="400" alt="Algorithms 2" />
+</p>
+
 ---
 
 ## 🚀 Key Highlights & Design Principles
