@@ -18,6 +18,8 @@ This repository serves as a portfolio demonstrating clean code practices, determ
 * **Thread Safety:** Core engines are built with concurrency in mind, ensuring safe state management during high-frequency data ingestion.
 * **Clean Code & Testability:** Every algorithmic component follows SOLID principles, design patterns (State, Strategy, Adapter), and comes with a deterministic test suite.
 
+---
+
 <p align="left">
   <img src="images/java-algorithms-8.jpeg" width="400" alt="Trading 3" />
   <img src="images/java-algorithms-9.jpeg" width="400" alt="Trading 4" />
