@@ -37,6 +37,13 @@ This repository serves as a portfolio demonstrating clean code practices, determ
 
 ---
 
+<p align="left">
+  <img src="images/java-algorithms-11.jpeg" width="400" alt="Trading 5" />
+  <img src="images/java-algorithms-12.jpeg" width="400" alt="Trading 6" />
+</p>
+
+---
+
 ## 📧 Contact & Collaboration
 
 If you are a recruiter or technical leader looking to discuss these implementations, feel free to reach out:
