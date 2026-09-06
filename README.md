@@ -21,8 +21,8 @@ This repository serves as a portfolio demonstrating clean code practices, determ
 ---
 
 <p align="left">
-  <img src="images/java-algorithms-2.jpeg" width="400" alt="Algorithms 3" />
-  <img src="images/java-algorithms-6.jpeg" width="400" alt="Algorithms 4" />
+  <img src="images/java-algorithms-7.jpeg" width="400" alt="Trading 3" />
+  <img src="images/java-algorithms-8.jpeg" width="400" alt="Trading 4" />
 </p>
 
 ---
