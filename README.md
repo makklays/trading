@@ -20,6 +20,13 @@ This repository serves as a portfolio demonstrating clean code practices, determ
 
 ---
 
+<p align="left">
+  <img src="images/java-algorithms-2.jpeg" width="400" alt="Algorithms 3" />
+  <img src="images/java-algorithms-4.jpeg" width="400" alt="Algorithms 4" />
+</p>
+
+---
+
 ## 💻 Tech Stack
 
 * **Language:** Java 17 / 21
