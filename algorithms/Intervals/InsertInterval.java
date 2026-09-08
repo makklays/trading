@@ -21,14 +21,14 @@ class Solution {
         int i = 0;
         int n = intervals.length;
 
-        // 1. Добавляем все интервалы, которые заканчиваются ДО начала newInterval
+        // 1. Добавляем все интервалы, которые заканчиваются ДО начала newInterval (3 < 2)
         while (i < n && intervals[i][1] < newInterval[0]) {
             result.add(intervals[i]);
             i++;
         }
 
         // 2. Объединяем все интервалы, которые пересекаются с newInterval
-        // Интервал пересекается, если его начало меньше или равно концу newInterval
+        // Интервал пересекается, если его начало меньше или равно концу newInterval (1 <= 5)
         while (i < n && intervals[i][0] <= newInterval[1]) {
             newInterval[0] = Math.min(newInterval[0], intervals[i][0]);
             newInterval[1] = Math.max(newInterval[1], intervals[i][1]);
