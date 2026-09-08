@@ -5,7 +5,7 @@
  * Return intervals after the insertion.
  * Note that you don't need to modify intervals in-place. You can make a new array and return it.
  *
- * Example 1 :
+ * Example 1:
  * Input: intervals = [[1,3],[6,9]], newInterval = [2,5]
  * Output: [[1,5],[6,9]]
  *
