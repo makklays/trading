@@ -48,6 +48,7 @@ class Solution {
         }
 
         // Если стек был пуст, вернется "/", иначе собранный путь
+        return sb.length() == 0 ? "/" : sb.toString();
     }
 }
 
