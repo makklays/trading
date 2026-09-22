@@ -1,7 +1,19 @@
 /**
  * Given the head of a singly linked list and two integers left and right where left <= right, reverse the nodes of the list from position left to position right, and return the reversed list.
- *
  * 
+ * Алгоритм:
+ *  1. Создаем dummy-узел, который указывает на head.
+ *  2. Доходим до узла, предшествующего позиции left (назовем его prev).
+ *  3. Поочередно перемещаем элементы с позиции left + 1 до right в начало разворачиваемого отрезка, меняя указатели на месте (in-place).
+ *
+ * Example 1:
+ * Input: head = [1,2,3,4,5], left = 2, right = 4
+ * Output: [1,4,3,2,5]
+ * 
+ * Time Complexity: O(n) 
+ * Space Complexity: O(1) 
+ * 
+ * @author Alexander Kuziv <makklays@gmail.com> 
  */
 
 /**
