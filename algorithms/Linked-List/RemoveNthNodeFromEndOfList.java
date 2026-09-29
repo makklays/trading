@@ -5,8 +5,9 @@
  * Input: head = [1,2,3,4,5], n = 2
  * Output: [1,2,3,5]
  *
+ * 
  *
- *
+ * @author Alexander Kuziv <makklays@gmail.com> 
  */ 
 
 /*class ListNode {
