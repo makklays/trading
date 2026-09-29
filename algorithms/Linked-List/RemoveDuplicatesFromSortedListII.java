@@ -7,8 +7,10 @@
  * Input: head = [1,2,3,3,4,4,5]
  * Output: [1,2,5]
  *
+ * Time Complexity: O(n) 
+ * Space Complexity: O(1) 
  *
- *
+ * @author Alexander Kuziv <makklays@gmail.com> 
  */
 
 /**
