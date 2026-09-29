@@ -5,7 +5,8 @@
  * Input: head = [1,2,3,4,5], n = 2
  * Output: [1,2,3,5]
  *
- * 
+ * Time Complexity: O(n) 
+ * Space Complexity: O(1) 
  *
  * @author Alexander Kuziv <makklays@gmail.com> 
  */ 
