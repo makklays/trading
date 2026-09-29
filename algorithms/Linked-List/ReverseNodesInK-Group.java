@@ -10,7 +10,7 @@
  * Time Complexity: O(n) 
  * Space Complexity: O(1) 
  *
- * 
+ * @author Alexander Kuziv <makklays@gmail.com> 
  */ 
 
 /*class ListNode {
