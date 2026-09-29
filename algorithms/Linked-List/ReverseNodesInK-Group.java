@@ -6,7 +6,11 @@
  * Example 1:
  * Input: head = [1,2,3,4,5], k = 2
  * Output: [2,1,4,3,5]
+ * 
+ * Time Complexity: O(n) 
+ * Space Complexity: O(1) 
  *
+ * 
  */ 
 
 /*class ListNode {
